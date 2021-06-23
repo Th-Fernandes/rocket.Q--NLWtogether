@@ -1,6 +1,6 @@
 # ROCKET.Q - Um projeto da trilha discover da NLW Together.
 
-![rocketQ layout] (./assets/layout.png)
+![rocketQ layout](./assets/layout.PNG)
 
 ## O que é esse projeto?
 
